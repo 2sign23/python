@@ -1,0 +1,8 @@
+print("Mtn monthly data bundles")
+print("#1000 for 1.5GB")
+print("#1200 for 2GB")
+print("#1500 for 3.75GB")
+print("#2000 for 6GB")
+print("#2500 for 6GB")
+print("#3500 for 12GB")
+print("#1000 for 1.5GB+#1000")
